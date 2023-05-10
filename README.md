@@ -1,3 +1,3 @@
 # gym-landing
 
-* Visit the website * 👉 https://gym24.netlify.app/
+*Visit the website* 👉 [GYM24](https://gym24.netlify.app/)

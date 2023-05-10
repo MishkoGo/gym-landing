@@ -1,6 +1,3 @@
 # gym-landing
 
-> Visit the website 👉
-```typescript
-  https://gym24.netlify.app/
-```
+* Visit the website * 👉 https://gym24.netlify.app/
